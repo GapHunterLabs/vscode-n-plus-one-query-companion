@@ -2,7 +2,7 @@
   "name": "n-plus-one-query-companion",
   "displayName": "N+1 Query Companion",
   "description": "Flags a TypeORM/Sequelize/Drizzle find/query call inside a loop -- the classic N+1 query anti-pattern. No data leaves your editor.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "GapHunterLabs",
   "icon": "images/icon.png",
   "license": "Apache-2.0",
